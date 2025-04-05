@@ -26,3 +26,4 @@ To run the project locally, follow these steps:
 
 ```bash
 git clone https://github.com/kajalpandey0104/REACT_React_E-Commerce
+# REACT_React_E-Commerce
