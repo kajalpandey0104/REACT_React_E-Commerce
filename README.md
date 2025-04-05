@@ -2,6 +2,9 @@
 
 A fully functional E-commerce Website built with the React.js Framework.
 
+## Demo
+http://localhost:3001/
+
 
 ## Features
 
@@ -18,6 +21,18 @@ A fully functional E-commerce Website built with the React.js Framework.
 - daisyUI (UI components)
 - Backend API (for managing products and cart)
 
+## Go to the project directory
+
+  cd React_E-Commerce
+
+## Install dependencies
+
+  npm install
+
+## Start the server
+
+  npm start
+
 ## Run Locally
 
 To run the project locally, follow these steps:
@@ -27,3 +42,5 @@ To run the project locally, follow these steps:
 ```bash
 git clone https://github.com/kajalpandey0104/REACT_React_E-Commerce
 # REACT_React_E-Commerce
+
+##Working of my Project
