@@ -3,7 +3,7 @@
 A fully functional E-commerce Website built with the React.js Framework.
 
 ## Demo
-http://localhost:3001/
+https://react-react-e-commerce-git-main-kajalpandey0104s-projects.vercel.app
 
 
 ## Features
